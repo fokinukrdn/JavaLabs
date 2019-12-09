@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ua.procamp.FileStatsTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-12-09T18:58:41" hostname="LaVieEstBelle" time="0.126">
+  <properties/>
+  <testcase name="testContainsCharacter" classname="ua.procamp.FileStatsTest" time="0.054"/>
+  <testcase name="testCreateFileStatsFromExistingFile" classname="ua.procamp.FileStatsTest" time="0.007"/>
+  <testcase name="testGetCharCount" classname="ua.procamp.FileStatsTest" time="0.01"/>
+  <testcase name="testGetMostPopularCharacter" classname="ua.procamp.FileStatsTest" time="0.051"/>
+  <testcase name="testCreateFileStatsFromNonExistingFile" classname="ua.procamp.FileStatsTest" time="0.001"/>
+  <system-out><![CDATA[e
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

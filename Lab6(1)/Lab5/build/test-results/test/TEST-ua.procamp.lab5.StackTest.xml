@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ua.procamp.lab5.StackTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2019-12-09T20:32:54" hostname="LaVieEstBelle" time="0.015">
+  <properties/>
+  <testcase name="testPopElementFromEmptyStack" classname="ua.procamp.lab5.StackTest" time="0.001"/>
+  <testcase name="testPushElements" classname="ua.procamp.lab5.StackTest" time="0.006"/>
+  <testcase name="testPushElementOntoEmptyStack" classname="ua.procamp.lab5.StackTest" time="0.0"/>
+  <testcase name="testSize" classname="ua.procamp.lab5.StackTest" time="0.0"/>
+  <testcase name="testPopElements" classname="ua.procamp.lab5.StackTest" time="0.001"/>
+  <testcase name="testIsEmptyOnEmptyStack" classname="ua.procamp.lab5.StackTest" time="0.0"/>
+  <testcase name="testSizeOnEmptyStack" classname="ua.procamp.lab5.StackTest" time="0.0"/>
+  <testcase name="testIsEmpty" classname="ua.procamp.lab5.StackTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
