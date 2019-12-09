@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TriangleTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-12-02T16:31:19" hostname="LaVieEstBelle" time="0.012">
+  <properties/>
+  <testcase name="testToString" classname="TriangleTest" time="0.011"/>
+  <testcase name="square" classname="TriangleTest" time="0.001"/>
+  <testcase name="getA" classname="TriangleTest" time="0.0"/>
+  <system-out><![CDATA[This is father's constructor
+This is father's constructor
+This is father's constructor
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
